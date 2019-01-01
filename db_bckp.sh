@@ -1,4 +1,5 @@
 #!/bin/bash
+##This Script Created and Configured by Javid Alizade
 DBUSER=root
 FMTOPTIONS='--skip-column-names -E'
 COMMAND='SHOW DATABASES'

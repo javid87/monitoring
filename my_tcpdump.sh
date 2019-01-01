@@ -1,4 +1,5 @@
 #!/bin/bash
+##This Script Created and configured by Javid Alizade
 echo "Welcome Port and host monitoring script"
 read -p "Please insert HOST IP:" HOST
 read -p "Please insert HOST PORT:" PORT
