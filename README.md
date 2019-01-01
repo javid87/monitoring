@@ -1,2 +1,1 @@
-This script for daily check and notify disk space usage.
-By Default this script check only first root disk. But if you want you can edit and add other disks.
+This is simple bash scripts that help me monitoring my Production systems. i very glad if this scripts help someone else.
